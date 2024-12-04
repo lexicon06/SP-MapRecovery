@@ -1,7 +1,7 @@
-# Map Recovery Plugin
+# SP-MapRecovery
 
 ## Description
-The **Map Recovery Plugin** is designed to recover the latest map when the server crashes or is restarted. This plugin was created specifically for my own Left 4 Dead 2 (L4D2) server, so it may not work for everyone.
+The **SP-MapRecovery** plugin is designed to recover the latest map when the server crashes or is restarted. This plugin was created specifically for my own Left 4 Dead 2 (L4D2) server, so it may not work for everyone.
 
 ## Features
 - Recovers the last played map after a server crash or restart.
@@ -11,7 +11,7 @@ The **Map Recovery Plugin** is designed to recover the latest map when the serve
 ## Installation
 1. Download the plugin files.
 2. Place the files in the appropriate directories on your server.
-3. Ensure the `map_recover.txt` file is located in the `configs` directory.
+3. Ensure the `map_recover.txt` file is located in the `configs` directory. (or don't, it will be created anyway)
 
 ## Usage
 The plugin will automatically handle map recovery when the server starts. No additional configuration is required.
