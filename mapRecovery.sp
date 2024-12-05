@@ -15,7 +15,7 @@ public Plugin myinfo =
 	description = "Recovers the latest map when the Server crashed or was restarted. I Have made this for my own L4D2 server, so it may not work for everyone.",
 	author		= "PabloSan",
 	version		= "1.0",
-	url			= "www.pablosan.dev"
+	url		= "www.pablosan.dev"
 };
 
 /**
